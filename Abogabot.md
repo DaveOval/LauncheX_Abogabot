@@ -8,19 +8,19 @@ https://www.figma.com/file/HVHRiB2MxohJYGGruAs8CM/Buyer-persona?node-id=9%3A19
 El cliente solicita una plataforma en la cual se automatizan los procesos de demandas de sus clientes, atravez de una pagina web que se pueda acceder mediante un mobil o una computadora.
 
 ***UX cliente***
--Crear cuenta.
--Crear procesos mediante formularios.
--Metodo de pago.
--Seguimiento de sus demandas.
--Comentarios por parte del abogado.
--Notificaciones mediante correo para saber el avance de su proceso.
--Accesibilidad mediante mobil y pc.
+- Crear cuenta cliente.
+- Crear procesos mediante formularios.
+- Metodo de pago.
+- Seguimiento de sus demandas.
+- Comentarios por parte del abogado.
+- Notificaciones mediante correo para saber el avance de su proceso.
+- Accesibilidad mediante mobil y pc.
 
 ***UX abogado***
--
--
--
--
+- Crear cuenta de abogado.
+- Recibir notificaciones.
+- Recibir pagos y ver la cantidad de ingresos recibidos.
+- Actualizar el proceso de la demanda y agregar comentarios en cada paso del proceso.
 
 
 ![Buyer Persona](./Imagenes/Diagrama_de_flujo.PNG)
