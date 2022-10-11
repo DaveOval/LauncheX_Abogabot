@@ -37,3 +37,14 @@ los posibles usuarios del servicio.
 ## **4. UX.**
 
 ## **5. UI.**
+Para el inicio de la pagina.
+![Buyer Persona](./Imagenes/ui_inicio.PNG)
+
+Menu en donde se inicia la sesion.
+![Buyer Persona](./Imagenes/ui_iniciarsesion.PNG)
+
+Interfaz para registro de un nuevo usuario.
+![Buyer Persona](./Imagenes/ui_registrarse.PNG)
+
+Interfaz de usuario.
+![Buyer Persona](./Imagenes/ui_usuario.PNG)
