@@ -34,9 +34,8 @@ El cliente ideal del proyecto, que aqui se representa como el abogado jefe de la
 los posibles usuarios del servicio.
 
 ![Buyer Persona](./Imagenes/publico_objetivo.PNG)
-## **4. UX.**
 
-## **5. UI.**
+## **4. UI.**
 Para el inicio de la pagina.
 ![Buyer Persona](./Imagenes/ui_inicio.PNG)
 
