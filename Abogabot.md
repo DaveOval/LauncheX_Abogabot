@@ -48,3 +48,9 @@ Interfaz para registro de un nuevo usuario.
 
 Interfaz de usuario.
 ![Buyer Persona](./Imagenes/ui_usuario.PNG)
+
+Interfaz de admin.
+![Buyer Persona](./Imagenes/ui_admin.PNG)
+
+Sistema de pagos.
+![Buyer Persona](./Imagenes/ui_pagos.PNG)
